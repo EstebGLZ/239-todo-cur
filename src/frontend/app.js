@@ -1,5 +1,5 @@
 //const apiEndpoint = "https://fa-todo-backend-baqmes.azurewebsites.net/api/tasks";
-const apiEndpoint = "https://baqtestappbackend.blackglacier-c7b0844e.northeurope.azurecontainerapps.io/api/tasks";
+const apiEndpoint = "https://ca-chy-300223-239-estebancurty.salmonsand-a7de99b7.northeurope.azurecontainerapps.io/api/tasks";
 
 $(document).ready(function () {
   // Charger les tâches au démarrage
